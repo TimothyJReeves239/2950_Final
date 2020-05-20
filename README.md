@@ -1,2 +1,2 @@
 # 2950_Final
-An analysis of Canadian arrests data ranging from 1997-2002
+An analysis of Canadian arrest data ranging from 1997-2002.
